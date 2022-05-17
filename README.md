@@ -7,3 +7,4 @@ Social network/dashboard
     resources -> html, css, js, images...
     src -> source code directory, contains classes and rotues from inputs as well as db logic
     
+![Alt text](resources/images/homepage.png "Homepage")
